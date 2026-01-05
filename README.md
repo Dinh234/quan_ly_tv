@@ -1,1 +1,1 @@
-# quan_ly_tv
+# CLIP_with_OOD
